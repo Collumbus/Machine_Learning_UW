@@ -1,1 +1,1 @@
-# Machine_Learning_UW
+# Machine Learning by UW
